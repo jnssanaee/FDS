@@ -1,3 +1,7 @@
+## FDS 4기 기존 수업자료(~DAY29) 접근 링크
+
+[FDS, 4th](https://github.com/yamoo9/FDS/tree/060c5fb0f253ec43c7045be48391be31feaf583d)
+
 ## Vue.js 한국어 번역 프로젝트 목록
 
 Github에 공개된 프로젝트 중 한글 번역된 프로젝트
